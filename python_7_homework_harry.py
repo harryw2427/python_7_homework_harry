@@ -3,7 +3,7 @@
 
 # In[18]:
 
-
+#Dice Game
 import random
 n= int(input('Enter number of dice: '))
 def rolldice(n):
